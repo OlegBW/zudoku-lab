@@ -1,0 +1,2 @@
+import{X as c,j as e}from"./entry.client-CZ1tIu3b.js";const s="By default, the SDK does not include authentication",i=[],r={title:"Authorization"};function o(t){const n={p:"p",...c(),...t.components};return e.jsx(n.p,{children:"By default, the SDK does not include authentication"})}function u(t={}){const{wrapper:n}={...c(),...t.components};return n?e.jsx(n,{...t,children:e.jsx(o,{...t})}):o(t)}export{u as default,s as excerpt,r as frontmatter,i as tableOfContents};
+//# sourceMappingURL=authorization-D6VmxSGS.js.map
